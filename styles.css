@@ -147,6 +147,7 @@ nav ul{
   }
 }
 #features{
+  padding-top: 50px;
   margin-top: 30px;
 }
 #features .icon{
@@ -188,6 +189,7 @@ nav ul{
   }
 }
 #how-we-made{
+  padding-top: 50px;
   margin-top: 50px;
   display: flex;
   justify-content: center;
