@@ -147,8 +147,7 @@ nav ul{
   }
 }
 #features{
-  padding-top: 75px;
-  margin-top: 30px;
+  margin-top: 135px;
 }
 #features .icon{
   display:flex;
@@ -189,8 +188,7 @@ nav ul{
   }
 }
 #how-we-made{
-  padding-top: 75px;
-  margin-top: 50px;
+  margin-top: 155px;
   display: flex;
   justify-content: center;
 }
