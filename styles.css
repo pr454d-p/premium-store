@@ -196,9 +196,11 @@ nav ul{
   justify-content: center;
 }
 #how-we-made > iframe{
-  padding-top: 120px;
   max-width: 560px;
   width: 100%;
+}
+#video{
+  padding-top: 120px;
 }
 #price{
   margin-top: 60px;
